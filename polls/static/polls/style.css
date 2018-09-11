@@ -1,0 +1,9 @@
+a {
+    color: green;
+}
+
+body {
+    background: white url("images/background.svg")
+    no-repeat;
+    background-size: auto;
+}
